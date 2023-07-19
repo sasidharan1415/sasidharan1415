@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sasidharan1415
-- 👀 I’m interested in programming 
+- 👋 Hi, I’m @sasidharan1415 
 - 🌱 I’m currently learning electronics and communication engineering 
-- 💞️ I’m looking to collaborate on working with other person who likes me.
+-  Never revenge let them realize ✌️
 
 <!---
 sasidharan1415/sasidharan1415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
