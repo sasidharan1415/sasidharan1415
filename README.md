@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @sasidharan1415 
-- 🌱 I’m currently learning electronics and communication engineering 
+- 🌱 I’m currently pursuing Electronics and Communication Engineering
+- 👀 I’m interested in Web Development
+- 💞️ Looking for a Coding Collabrator
 -  Never revenge let them realize ✌️
 
 <!---
