@@ -19,7 +19,6 @@
 
 ### 🛠️ Tech Stack
 
-python
 Languages:  C / C++ / Python / JavaScript  
 Embedded:   NodeMCU / Raspberry Pi / Sensors  
 Frameworks: Arduino / Firebase / OpenCV  
